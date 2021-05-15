@@ -1,0 +1,2 @@
+# Dehazing-single-image-using-Dark-Channel-Prior
+Haze, fog, and smoke lead to low visibility in image due to Airlight. Outdoor images often degraded by them. Whereas, Haze-free image is more visually pleasing, highly desired in computational photography and computer vision applications. The aim of this project is to devolp a Haze Imaging Model using Dark Channel prior, which can significantly decrease Haze &amp; Airlight component in an input image. Baseline model is Dehazing using Histogram Equalization.
